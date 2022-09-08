@@ -20,7 +20,7 @@ for an easy way to execute and deploy the website you should use the following c
 ```
 cd Thentic_ApplicationNft
 docker build -t thentic .
-docker run -p 5000:5000 -d thentic
+docker run -p 5000:5000 thentic
 ```
 * ![alt text](https://github.com/maroua199525/Thentic_ApplicationNft/blob/main/Example_3.png)
 
