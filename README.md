@@ -25,8 +25,8 @@ docker run -p 5000:5000 thentic
 * ![alt text](https://github.com/maroua199525/Thentic_ApplicationNft/blob/main/Example_3.png)
 
 
-now the website is running on port 5000 you can start send requests to the api
-existing the project you can stop the api with the following command
+now the website is running on port 5000 you can start send requests to the website 
+existing the project you can stop the website with the following command
 ```
 docker stop thentic
 ```
