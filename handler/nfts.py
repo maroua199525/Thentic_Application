@@ -27,7 +27,7 @@ def mint_nft(nft_id, address, data):
     data = {'key': 'yRVOe6x3p7k1lvqYYJxhvYAL0DNZ9rrs',
             'chain_id': '3',
             'nft_id': nft_id,
-            'tot': address,
+            'to': address,
             'contract': str(get_contract_address()),
             'nft_data': data}
 
